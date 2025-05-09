@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @BraydenKO
 - I'm a student at Carnegie Mellon University (CMU) SCS.
-- LinkedIn: https://www.linkedin.com/in/brayden-kohler-906563268/ 
+- LinkedIn: https://www.linkedin.com/in/brayden-kohler-906563268/
+- Website: https://braydenko.github.io/
